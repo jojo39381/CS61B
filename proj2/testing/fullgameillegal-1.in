@@ -1,0 +1,16 @@
+# Test if the program can play a game while ignoring illegal moves.
+#* java -ea loa.Main
+seed 22222
+manual White
+manual Black
+Limit 3
+b1-b3
+a2-c2
+b3-b6
+b3-b5
+a7-e7
+a7-c7
+e8-e6
+h2-f2
+dump
+#*move/win

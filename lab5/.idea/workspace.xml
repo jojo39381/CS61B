@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bebb1d24-f03e-4b4d-a083-611029f72cc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../proj1/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj1/enigma/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj1/enigma/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Y75H0WVniU6d83t2X8qAsFL47y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.TestTable.testJoin">
+    <configuration name="TestTable.testColumnMatchFilter" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTable" />
+      <option name="METHOD_NAME" value="testColumnMatchFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTable.testEqualityFilter" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTable" />
+      <option name="METHOD_NAME" value="testEqualityFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTable.testGreaterThanFilter" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTable" />
+      <option name="METHOD_NAME" value="testGreaterThanFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTable.testJoin" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTable" />
+      <option name="METHOD_NAME" value="testJoin" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTable.testSubstringFilter" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTable" />
+      <option name="METHOD_NAME" value="testSubstringFilter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.TestTable.testJoin" />
+        <item itemvalue="Android JUnit.TestTable.testSubstringFilter" />
+        <item itemvalue="Android JUnit.TestTable.testEqualityFilter" />
+        <item itemvalue="Android JUnit.TestTable.testGreaterThanFilter" />
+        <item itemvalue="Android JUnit.TestTable.testColumnMatchFilter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bebb1d24-f03e-4b4d-a083-611029f72cc5" name="Default Changelist" comment="" />
+      <created>1582280700708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582280700708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="196" key="#com.intellij.ide.util.MemberChooser" timestamp="1582324552829">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state x="653" y="196" key="#com.intellij.ide.util.MemberChooser/0.23.1680.914@0.23.1680.914" timestamp="1582324552829" />
+    <state width="1638" height="242" key="GridCell.Tab.0.bottom" timestamp="1582334017694">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="242" key="GridCell.Tab.0.bottom/0.23.1680.914@0.23.1680.914" timestamp="1582334017694" />
+    <state width="1638" height="242" key="GridCell.Tab.0.center" timestamp="1582334017693">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="242" key="GridCell.Tab.0.center/0.23.1680.914@0.23.1680.914" timestamp="1582334017693" />
+    <state width="1638" height="242" key="GridCell.Tab.0.left" timestamp="1582334017693">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="242" key="GridCell.Tab.0.left/0.23.1680.914@0.23.1680.914" timestamp="1582334017693" />
+    <state width="1638" height="242" key="GridCell.Tab.0.right" timestamp="1582334017694">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="242" key="GridCell.Tab.0.right/0.23.1680.914@0.23.1680.914" timestamp="1582334017694" />
+    <state width="1638" height="2" key="GridCell.Tab.1.bottom" timestamp="1582334012203">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.bottom/0.23.1680.914@0.23.1680.914" timestamp="1582334012203" />
+    <state width="1638" height="2" key="GridCell.Tab.1.center" timestamp="1582334012202">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.center/0.23.1680.914@0.23.1680.914" timestamp="1582334012202" />
+    <state width="1638" height="2" key="GridCell.Tab.1.left" timestamp="1582334012200">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.left/0.23.1680.914@0.23.1680.914" timestamp="1582334012200" />
+    <state width="1638" height="2" key="GridCell.Tab.1.right" timestamp="1582334012202">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.1.right/0.23.1680.914@0.23.1680.914" timestamp="1582334012202" />
+    <state width="1638" height="2" key="GridCell.Tab.2.bottom" timestamp="1582334012204">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.2.bottom/0.23.1680.914@0.23.1680.914" timestamp="1582334012204" />
+    <state width="1638" height="2" key="GridCell.Tab.2.center" timestamp="1582334012203">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.2.center/0.23.1680.914@0.23.1680.914" timestamp="1582334012203" />
+    <state width="1638" height="2" key="GridCell.Tab.2.left" timestamp="1582334012203">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.2.left/0.23.1680.914@0.23.1680.914" timestamp="1582334012203" />
+    <state width="1638" height="2" key="GridCell.Tab.2.right" timestamp="1582334012204">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state width="1638" height="2" key="GridCell.Tab.2.right/0.23.1680.914@0.23.1680.914" timestamp="1582334012204" />
+    <state x="328" y="61" key="SettingsEditor" timestamp="1583056556047">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state x="328" y="61" key="SettingsEditor/0.23.1680.914@0.23.1680.914" timestamp="1583056556047" />
+    <state x="519" y="312" key="com.intellij.ide.util.TipDialog" timestamp="1583020074313">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state x="519" y="312" key="com.intellij.ide.util.TipDialog/0.23.1680.914@0.23.1680.914" timestamp="1583020074313" />
+    <state x="629" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582330877371">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state x="629" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.914@0.23.1680.914" timestamp="1582330877371" />
+    <state x="505" y="222" width="670" height="676" key="search.everywhere.popup" timestamp="1582329321665">
+      <screen x="0" y="23" width="1680" height="914" />
+    </state>
+    <state x="505" y="222" width="670" height="676" key="search.everywhere.popup/0.23.1680.914@0.23.1680.914" timestamp="1582329321665" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+# The program can continue to play after manual.
+#* java -ea loa.Main
+seed 33333
+manual White
+manual Black
+c1-c3
+a7-c7
+d1-d3
+a5-c5
+f8-f6
+h7-f7
+dump
+auto Black
+auto White
+#*move/win

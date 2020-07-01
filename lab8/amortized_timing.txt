@@ -1,0 +1,25 @@
+Q: Is one GrowList implementation always better than the others?
+A: No. If you consider the spikes, one is not always faster than the others. However, disregarding the spikes, one is always better than another.
+
+Q: Why is the runtime for N insertions into a geometrically resizing list a Theta(N) operation?
+A: Because the size of the array is doubled every time, and every time the insertion happens it is of Theta(N) complexity.
+The insertion operation is grouped into the Theta(N) family. That's why the N insertions is a Theta(N) operation.
+
+Q: Why is the runtime for N insertions into a arithmetically resizing list a Theta(N^2) operation?
+A: Because you need to iterate through the list each time. It is growing in multiples of N^2.
+It is not good because it performs the worse case regardless of the amount of insertions.
+The grow list function increases the size of the array each time and by one, so it is a N^2 operation.
+
+Q: How does the runtime per operation for the ArithGrowList compare to that of GeomGrowList and JavaGrowList? Specifically look at the non-accumulated plots and desribe the trends for how long each operation takes as a function of how many elements have already been inserted in the list.
+A: The runtime per operation for the arith grow list rises steadily and at a constant rate, with spikes in between.
+This run time for arith grow list rises while the run time for geo grow list and java grow list mostly remained constant. For the geo grow list and the java grow list, they are mostly at the same speed and time, with spikes in between as the list doubles in size.
+
+Q: When are there spikes in the per operation runtime graphs for each of the implementations? Do these make sense to you? Hint: some of these should and others might not. Empirical runtime can be quite messy and depends on machine specifics which will be revealed in other subsequent classes like CS61C.
+A: The spikes in the per operation runtime graph for each of the implementations happens when the number of N is a multiple of a power of two.
+This makes sense because the spikes also happen when the list is doubled.
+
+Q: Optional: Try changing the code for GeomGrowList to resize by a different factor. How does this effect the theoretical asymptotic runtime? How does this effect the plotted runtime?
+A:
+
+Q: Optional: Try changing the code for ArithGrowList to resize by adding a different fixed number of spots in the array. How does this effect the theoretical asymptotic runtime? How does this effect the plotted runtime?
+A:

@@ -1,0 +1,14 @@
+# Test if the program can tie after reaching limit.
+#* java -ea loa.Main
+seed 11111
+Limit 7
+manual Black
+b1-b3
+c1-c3
+d1-d3
+e1-e3
+f1-f3
+g1-f1
+f1-h3
+dump
+#*win+

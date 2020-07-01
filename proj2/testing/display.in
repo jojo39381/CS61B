@@ -1,0 +1,4 @@
+#* java -ea loa.Main --display
+auto white
+auto black
+#*move/win

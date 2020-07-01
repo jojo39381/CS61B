@@ -1,0 +1,9 @@
+# Running Ai against staff.
+#* java -ea loa.Main
+#* time 2 120
+Limit 60
+seed 20001
+manual white
+auto black
+#*move
+#*remote move/win

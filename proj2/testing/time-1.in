@@ -1,0 +1,7 @@
+# The program has time limit.
+#* java -ea loa.Main
+#* time 1 10
+seed 55555
+auto Black
+auto White
+#*move/win

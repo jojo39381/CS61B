@@ -1,0 +1,36 @@
+Q: Is one sorting algorithm always faster than another?
+A: No. In the beginning when the array sizes are smaller, some sorting algorithm that were faster with larger arrays became slower.
+For example, the java sorter is fast on large array sizes, but it is slower than the insertion sorter and the counting sorter, and even slower than the the bubble sorter on certain small sizes.
+The wiping bubble sorter was also slower than the bubble sorter on some smaller sizes even though it is faster on large array sizes.
+
+Q: Above we said that BubbleSort, WipingBubbleSort, and InsertionSort each had the same Theta(N^2) asymptotic time complexity. How can you explain the differences in the plots for these three algorithms?
+A: Time complexity is the asymptotic behavior of the running time as the input scales. Algorithms in the same group of complexity does not always have the same runtime.
+Multiples of n^2 is still considered part of the n^2 family. Algorithms that have different run times but are still within the upper and lower bounds are still apart of the same family of complexity.
+
+Q: What information can we gain from empirical analysis of algorithms which might not be as noticeable in asymptotical bounds?
+A: From empirical analysis, we can see that sometimes an algorithm is faster or slower than another.
+We can see how the algorithm grows and its rate of growth. Asymptotical bounds may not provide as much detail as empirical analysis.
+
+Q: For any given sorting algorithm, does increasing the array size always mean the sorting takes longer?
+A: No. For some of the algorithms, the sorting became faster when the array size increased.
+For example, the java sorter algorithm decreases in time as the array gets larger. THe sorting does not always take longer as the array size increases.
+
+Q: How does changing nrepeats change the plot?
+A: As you increase nrepeats, you are adding the number of trials.
+Since the points on the plot come from the average of the values out of the trials,
+having more trials would make the plot more accurate and closer to reality.
+
+Q: Is your plot the exact same as your partner's plot, even with the same values of ntrials, by, and nrepeats?
+A: No, there are some variances. My plot does not look exactly like my friend's plot. However, the patterns are still mostly the same.
+Also, when I ran the same parameters many times on my own computer, it still came out slightly different every time.
+
+Q: Optional: Look at the source code for BubbleSorter to WipingBubbleSorter. After looking at the plots, can you intuitively explain why WipingBubbleSorter is usually 2x as fast as BubbleSorter? (Hint: Consider the immobility of some elements when the swapping passes are single directional (i.e. only going forward), and how this "Wiping" strategy helps deal with that issue.) Can you come up with an example that shows the difference in runtime?
+A: NO.
+
+
+
+
+
+
+
+

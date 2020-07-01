@@ -1,0 +1,9 @@
+# The ai will play against itself. Someone should win. Show winning board. Final board is Correct.
+#*java -ea loa.Main
+seed 12345
+auto Black
+auto White
+#*move/win
+dump
+
+
